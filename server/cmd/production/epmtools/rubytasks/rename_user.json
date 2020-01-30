@@ -1,0 +1,17 @@
+{
+  "name": "Rename User",
+  "params": [
+    {
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "label": "First name",
+      "type": "string"
+    },
+    {
+      "label": "Last namefswefwefewefw",
+      "type": "string"
+    }
+  ]
+}
